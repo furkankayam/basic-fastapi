@@ -23,6 +23,6 @@ async def welcome():
 
 5. `uvicorn main:app --reload`
 
-<br>
+---
 
 - `pydantic` kullanılabilir
