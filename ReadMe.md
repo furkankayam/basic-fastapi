@@ -25,4 +25,4 @@ async def welcome():
 
 <br>
 
-6. `pydantic` kullanılabilir
+- `pydantic` kullanılabilir
