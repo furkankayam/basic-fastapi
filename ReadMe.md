@@ -25,6 +25,8 @@ async def welcome():
 
 ---
 
+<br>
+
 - `pydantic` kullanılabilir
 
 
