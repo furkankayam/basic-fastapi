@@ -21,8 +21,19 @@ async def welcome():
     return {'message': 'Hello World'}
 ```
 
-5. `uvicorn main:app --reload`
+5. `uvicorn main:app --reload` || `uvicorn main:app --host 0.0.0.0 --port 8080`
 
 ---
 
 - `pydantic` kullanılabilir
+
+
+<br>
+
+---
+
+- Ubuntu ortamı için python sanal ortam kurma
+
+1. `sudo apt install python3-venv`
+2. `python3 -m venv venv`
+3. `source venv/bin/active`
